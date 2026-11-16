@@ -1,0 +1,5 @@
+Assignment Beta — Question 1 | Student ID: 23k-6005
+
+AI-use declaration
+
+I consulted official provider documentation and public model comparison pages for model specifications and prices. I used ChatGPT to help organize that information, check the calculations, and edit the report wording. I collected the API and local-tool timing data myself on 9–10 November 2026.
